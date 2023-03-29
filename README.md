@@ -1,4 +1,8 @@
-# Nostr types for Rust
+# DEPRECATED
+
+Please use the wonderful and active https://github.com/rust-nostr/nostr project.
+
+## Nostr types for Rust
 
 - [x] create event 
 - [x] serialize event
